@@ -1,0 +1,12 @@
+.wow,
+.cool {
+    font-size: 28px;
+    font-family: "Helvetica","Times New Roman","sans-serif";
+}
+.wow {
+    color: white;
+    background-color: black;
+}
+.cool {
+    background-color: yellow;
+}
